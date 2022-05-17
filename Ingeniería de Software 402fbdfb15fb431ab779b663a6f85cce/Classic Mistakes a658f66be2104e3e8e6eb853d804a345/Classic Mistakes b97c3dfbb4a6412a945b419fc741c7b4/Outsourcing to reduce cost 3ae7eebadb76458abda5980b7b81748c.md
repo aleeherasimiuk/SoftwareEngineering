@@ -1,0 +1,4 @@
+# Outsourcing to reduce cost
+
+Description: Valid reasons to outsource include accessing capabilities that you don’t have in house, diversifying your labor force, freeing up your in-house staff to focus on mission-critical or core-competency projects, adding “surge capacity” to your development staff, and supporting around-the clock development. Many organizations that have outsourced for these reasons have accomplished their objectives. However, some organizations outsource primarily to reduce development costs, and historically those initiatives have not succeeded. Usually outsourcing motivated by cost savings results in higher costs and longer schedules.
+Resumen: Tercerizar para reducir costo trae problemas

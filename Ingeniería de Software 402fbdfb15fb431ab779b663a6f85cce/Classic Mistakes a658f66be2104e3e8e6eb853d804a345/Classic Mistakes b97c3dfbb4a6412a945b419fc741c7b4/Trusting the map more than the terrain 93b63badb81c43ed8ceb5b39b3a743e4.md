@@ -1,0 +1,4 @@
+# Trusting the map more than the terrain
+
+Description: Project teams sometimes invest more confidence in the plans they create than in the experience their project is giving them. Sometimes they will trust the delivery date written on a plan more than the delivery date implied by the project’s track record. If the project reality and the project plans disagree, the project’s reality is correct, and the plans must be wrong. The longer a project team trusts the plans rather than the project reality—i.e., trusts the map more than the terrain—the more difficulty they will have adapting their course successfully.
+Resumen: Si el plan está jodido, y se sigue mirando el plan con sus fechas y todo, va a ser imposible adaptarse, sobre todo si el proyecto va retrasado.

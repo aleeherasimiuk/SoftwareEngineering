@@ -1,0 +1,4 @@
+# Noisy, crowded offices
+
+Description: About 60 percent of developers report that their work environments are neither sufficiently quiet nor sufficiently private. For many developers, this can prevent concentration and prevent achieving a state of ‘flow’ that is helpful in achieving high levels of productivity. Workers who occupy quiet, private offices tend to perform significantly better than workers who occupy noisy, crowded work bays or cubicles. If people don’t keep careful records of previous projects, they forget about the less visible tasks, but those tasks add up. Forgotten activities can add 20 to 30 percent to a development schedule.
+Resumen: Entornos de trabajo ruidosos y con mucha gente puede prevenit la concentración y bajar la productividad.

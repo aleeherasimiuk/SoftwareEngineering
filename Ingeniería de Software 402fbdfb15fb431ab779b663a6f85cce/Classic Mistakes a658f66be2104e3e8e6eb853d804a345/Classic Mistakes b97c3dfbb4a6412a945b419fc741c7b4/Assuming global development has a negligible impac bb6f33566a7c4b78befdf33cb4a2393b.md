@@ -1,0 +1,4 @@
+# Assuming global development has a negligible impact on total effort
+
+Description: Multi-site development increases communication and coordination effort between sites. The greater the differences among the sites in terms of time zones, company cultures, and national cultures, the more the total project effort will increase. Some companies naively assume that changing from single-site development to multi-site development will have a negligible impact on effort, but studies have shown that international development will typically increase effort by about 40% compared to single-site development.
+Resumen: Asumir que tener personas en distintos países no tiene impacto en el esfuerzo

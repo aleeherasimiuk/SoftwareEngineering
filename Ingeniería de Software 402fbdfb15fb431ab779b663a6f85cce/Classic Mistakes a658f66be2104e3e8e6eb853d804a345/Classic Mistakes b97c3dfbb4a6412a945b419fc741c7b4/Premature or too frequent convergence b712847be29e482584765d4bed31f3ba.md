@@ -1,0 +1,4 @@
+# Premature or too frequent convergence
+
+Description: Shortly before a public software release there is a push to prepare the software for release—improve the product’s performance, create final documentation, stub out functionality that’s not going to be ready for the release, perform end-to end testing including tests that can’t be automated, test the setup program, and so on. On rush projects, there is a tendency to force convergence too early. If the software isn’t close enough to a releasable state, the attempted convergence will fail, and the team will need to attempt to converge again later in the project. The extra convergence attempts waste time and prolong the schedule.
+Resumen: Sacar a funcionar un SW que no esté lo suficientemente maduro. Se va a necesitar arreglar muchas cosas y volver a “converger” y es pérdida de tiempo.

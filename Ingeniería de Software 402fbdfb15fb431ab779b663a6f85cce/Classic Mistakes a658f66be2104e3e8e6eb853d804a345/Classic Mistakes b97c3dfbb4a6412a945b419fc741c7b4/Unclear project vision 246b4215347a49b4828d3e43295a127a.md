@@ -1,0 +1,4 @@
+# Unclear project vision
+
+Description: The lack of clearly defined and communicated vision undermines the organization’s ability to make and execute project-level plans that are consistent with organization-level goals. Without a clear understanding of the vision, people draw their own conclusions about the purpose of the project and how it relates to their day-to-day work, and they make decisions that run counter to the project’s business objectives. The unclear vision contributes to changes in project direction, including detailed requirements; detailed plans that are misaligned with project priorities; and, ultimately, inability to meet schedule commitments.
+Resumen: Si no se tienen claros los requerimientos más adelante van a haber muchos cambios que van a complicar el desarrollo; impedirá alcanzar las fechas planificadas, etc.

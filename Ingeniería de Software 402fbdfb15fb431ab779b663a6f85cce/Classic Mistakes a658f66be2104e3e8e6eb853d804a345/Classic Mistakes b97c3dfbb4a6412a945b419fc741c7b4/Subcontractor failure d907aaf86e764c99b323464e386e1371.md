@@ -1,0 +1,5 @@
+# Subcontractor
+failure
+
+Description: Companies sometimes subcontract pieces of a project when they are too rushed to do the work in-house. (“Subcontractor” can refer either to an individual or to an outsourcing firm.) But subcontractors frequently deliver work that’s late, that’s of unacceptably low quality, or that fails to meet specifications. Risks such as unstable requirements or ill-defined interfaces can be magnified when you bring a subcontractor into the picture. If the subcontractor relationship isn’t managed carefully, the use of subcontractors can undermine a project’s goals. (Note: This question deals specifically with subcontracting part of a project—other items focus on outsourcing full projects.)
+Resumen: Subcontratar piezas o sistemas aparte con tu sistema in-house que trae problemas de calidad, especificaciones incorrectas, riesgos, etc.

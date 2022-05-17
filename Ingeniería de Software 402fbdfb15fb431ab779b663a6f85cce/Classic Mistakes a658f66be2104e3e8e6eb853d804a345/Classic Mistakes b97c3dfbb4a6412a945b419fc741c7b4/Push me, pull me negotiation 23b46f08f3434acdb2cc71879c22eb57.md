@@ -1,0 +1,4 @@
+# Push me, pull me negotiation
+
+Description: One bizarre negotiating ploy occurs when a manager approves a schedule slip on a project that’s progressing slower than expected and then adds completely new tasks after the schedule change. The underlying reason for this is hard to fathom because the manager who approves the schedule slip is implicitly acknowledging that the schedule was in error. But once the schedule has been corrected, the same person takes explicit action to make it wrong again.
+Resumen: Quien hace la planificación y tareas a seguir sabe que están mal pero las aprueba igual sin negociar, luego se tiene que replanificar.

@@ -1,0 +1,4 @@
+# Overly optimistic schedules
+
+Description: The challenges faced by someone building a three-month application are quite different than the challenges faced by someone building a one-year application. Setting an overly optimistic schedule sets a project up for failure by under-scoping the project, undermining effective planning, and abbreviating critical upstream development activities such as requirements analysis and design. It also puts excessive pressure on developers, which hurts developer morale and productivity.
+Resumen: Subestimar el tiempo, estimar con optimismo proyectos grandes, produce mucha presión en devs, reduce productividad, se subestima la planificación y se recorta en flujos de trabajo críticos

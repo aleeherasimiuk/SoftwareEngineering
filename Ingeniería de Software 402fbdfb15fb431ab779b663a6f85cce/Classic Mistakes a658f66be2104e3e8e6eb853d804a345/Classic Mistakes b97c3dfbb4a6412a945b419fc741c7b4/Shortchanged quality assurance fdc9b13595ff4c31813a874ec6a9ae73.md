@@ -1,0 +1,4 @@
+# Shortchanged quality assurance
+
+Description: Projects that are in a hurry often cut corners by eliminating design and code reviews, eliminating test planning, and performing only perfunctory testing. It is common for design reviews and code reviews to be given short shrift in order to achieve a perceived schedule advantage. This often results in the project reaching its feature-complete milestone but then still being too buggy to release.
+Resumen: Recortar en QA. Ante falta de tiempo se reduce diseño o reviews de código nuevo, se elimina el testeo o se reduce. Produce varios bugs en el release
